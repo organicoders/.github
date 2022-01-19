@@ -22,4 +22,8 @@ Since novel corona virus striked our lives, we all are living in quarantine and 
 - [JavaScript](https://www.javascript.com/)
 - [jQuery](https://jquery.com/)
 
+## Deployed
+- [Website](https://organicoders.github.io/nutrifrnd-website/)
+- [App](https://github.com/organicoders/nutrifrnd-app)
+
 <p align="center">Developers <a href="https://github.com/Nivedita-coder">Nivedita</a>, <a href="https://github.com/deepdhar">Deep</a>, <a href="https://github.com/alokkumax">Alok</a> & <a href="https://github.com/ALOKARYAN51">Alok Kumar</a></p>

@@ -21,3 +21,5 @@ Since novel corona virus striked our lives, we all are living in quarantine and 
 - [Firebase](https://firebase.google.com/)
 - [JavaScript](https://www.javascript.com/)
 - [jQuery](https://jquery.com/)
+
+<p align="center">Developers <a href="https://github.com/Nivedita-coder">Nivedita</a> <a href="https://github.com/deepdhar">Deep</a> <a href="https://github.com/alokkumax">Alok</a> & <a href="https://github.com/ALOKARYAN51">Alok Kumar</a></p>

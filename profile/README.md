@@ -15,3 +15,9 @@ Since novel corona virus striked our lives, we all are living in quarantine and 
 ![Untitled (2000 x 720 px)](https://user-images.githubusercontent.com/56059682/150101170-cce82c71-0f03-40da-b412-c13b5c0b8d4c.jpg)
 
 ![ss](https://user-images.githubusercontent.com/53803245/109620579-0cfe4780-7b60-11eb-9e8d-a88a70cb71ae.jpg)
+
+## Tech/ Framework Used
+- [Flutter](https://flutter.dev/)
+- [Firebase](https://firebase.google.com/)
+- [JavaScript](https://www.javascript.com/)
+- [jQuery](https://jquery.com/)
